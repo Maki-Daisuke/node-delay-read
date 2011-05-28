@@ -1,0 +1,8 @@
+{ "name" : "delay-read"
+, "version" : "0.0.1"
+, "description" : "Permit to delay setting on-data/end event-handlers for http-requests"
+, "author" : "Daisuke -yet another- Maki <maki.daisuke@gmail.com>"
+, "main" : "lib/delay-read.js"
+, "repository" : "http://github.com/Maki-Daisuke/node-delay-read"
+}
+
